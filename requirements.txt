@@ -1,5 +1,5 @@
 tensorflow-cpu
-pickle
+pickle==3.9.1
 keras==2.4.3
 numpy==1.18.5
 Scikit-learn==0.23.2
